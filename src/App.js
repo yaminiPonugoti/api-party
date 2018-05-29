@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h3>ain't no party like</h3>
+          <h3>ain't no party like an</h3>
           <h1>API Party</h1>
         </div>
         <ul className="navLinks">
