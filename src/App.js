@@ -6,7 +6,10 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <h1>API Party</h1>
+        <div className="App-header">
+          <h1>API Party</h1>
+          <h3>ain't no party like this one!</h3>
+        </div>
       </div>
     );
   }
